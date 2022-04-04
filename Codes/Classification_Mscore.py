@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 Setting some arrays for ease in sorting and presenting data later. These are tailored based on the data provided
 since the data format provided is different for different datasets
 '''
-Files = ['GSE4843', 'GSE7127', 'GSE81383', 'GSE80829', 'GSE10916', 'GSE115978', 'GSE134432']
+Files = [ 'GSE7127',  'GSE80829']
 Phenotypes = ['Proliferative', 'Transitory', 'NCSC', 'Invasive'] #In Cluster Order
 Score = ['KS_M', 'KS_E']
 Range = ['Bottom', 'Intermediate', 'Top']
@@ -43,7 +43,7 @@ Range = ['Bottom', 'Intermediate', 'Top']
 
 '''
 NOTE:
-The following code is tailored around the provided 8 datasets, and the format in which they were provided.
+The following code is tailored around the provided 2 datasets, and the format in which they were provided.
 It is possible to increase efficiency using os and glob libraries, for much larger number of datasets in a 
 suitable format.
 '''
@@ -63,35 +63,14 @@ RangeType = Range[0] #Choose 0: Bottom Third 1: Intermediate 2: Top Third
 #Sorting the scores as per requirement
 for FileNum in range(len(Files)):
     
-    #Choosing the 8 datasets from a large number. Change the path based on where the files are being stored.
+    #Choosing the 2 datasets from a large number. Change the path based on where the files are being stored.
     if FileNum == 0:
-        Data = pd.read_csv(r'Compiled Scores\GSE4843.csv')
-        Clust = pd.read_csv(r'Clusters\4843_clusters.txt', sep='\t')
-    
-    if FileNum == 1:
         Data = pd.read_csv(r'Compiled Scores\GSE7127.csv')
         Clust = pd.read_csv(r'Clusters\7127_clusters.txt', sep='\t')
-    
-    if FileNum == 2:
-        Data = pd.read_csv(r'Compiled Scores\GSE81383.csv')
-        Clust = pd.read_csv(r'Clusters\81383_clusters.txt', sep='\t')
-    
-    if FileNum == 3:
+    if FileNum == 1:
         Data = pd.read_csv(r'Compiled Scores\GSE80829.csv')
         Clust = pd.read_csv(r'Clusters\80829_clusters.txt', sep='\t')
-    
-    if FileNum == 4:
-        Data = pd.read_csv(r'Compiled Scores\GSE10916.csv')
-        Clust = pd.read_csv(r'Clusters\10916_clusters.txt', sep='\t')
-    
-    if FileNum == 5:
-        Data = pd.read_csv(r'Compiled Scores\GSE115978.csv')
-        Clust = pd.read_csv(r'Clusters\115978_clusters.txt', sep='\t')
         
-    if FileNum == 6:
-        Data = pd.read_csv(r'Compiled Scores\GSE134432.csv')
-        Clust = pd.read_csv(r'Clusters\134432_clusters.txt', sep='\t')
-    
     #Sorting
     Data[ScoreType] = (Data[ScoreType] - np.mean(Data[ScoreType]))/np.std(Data[ScoreType])
     minimum = min(Data[ScoreType])
@@ -99,7 +78,7 @@ for FileNum in range(len(Files)):
     lim = (maximum-minimum)/3
     
     #Some processing to account for cluster file format
-    if FileNum < 6:
+    if FileNum < 1:
         Clust.columns = ['Clusters']
     else:
         Clust.columns = ['Val', 'Clusters'] #Because of an extra column
