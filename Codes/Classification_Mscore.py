@@ -77,11 +77,8 @@ for FileNum in range(len(Files)):
     maximum = max(Data[ScoreType])
     lim = (maximum-minimum)/3
     
-    #Some processing to account for cluster file format
-    if FileNum < 1:
-        Clust.columns = ['Clusters']
-    else:
-        Clust.columns = ['Val', 'Clusters'] #Because of an extra column
+  
+    Clust.columns = ['Clusters']
         
     Clust['Index'] = range(len(Data))
     Clust.set_index('Index', inplace=True, drop = True)
