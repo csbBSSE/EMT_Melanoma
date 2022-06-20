@@ -1,3 +1,6 @@
+#Author: Maalavika Pillai
+#Created:04.04.22
+#Edited: 19.06.22
 #This script contains the code to generate plots for "Mapping phenotypic heterogeneity in melanoma onto the epithelial-hybrid-mesenchymal axis"
 #R version 4.1.1 
 
@@ -36,12 +39,14 @@ for (i in EM) {
     print(ggplot(corr_sub, aes(x = R, y = -log10(p), col= Score))+
             geom_point(size=3)+
             geom_hline(yintercept= 1.3, col = 'red') +
-            geom_vline(xintercept = 0.3,linetype = 'dotted', col = 'blue')+
-            geom_vline(xintercept = -0.3,linetype = 'dotted', col = 'blue')+
+            geom_vline(xintercept = 0.36,linetype = 'dotted', col = 'blue')+
+            geom_vline(xintercept = -0.36,linetype = 'dotted', col = 'blue')+
             ggtitle(paste0("Correlation between ",i, " and ",j," scores"))+
+            xlim(-1,1)+
             ylab("-log10(p)")+
             xlab("R (Spearman's correlation coefficient)")+
             theme_classic()+
+            border()+
             theme(text =  element_text(size = 20)))
     ggsave(paste("Figures/Fig.1/Volcano_plot_",i,"_",j,".png"))
   }
@@ -66,11 +71,14 @@ for (i in list(c("KS","GS"), c("E","M"))) {
     corr_sub1$EM <- as.factor(substr(corr_sub1$variable, n-1,n)) #Extracting information on EM score for each point
     corr_sub1$EM <- gsub("_","",corr_sub1$EM)
     corr_sub1$score <- factor(corr_sub1$score, levels = c("Pro","Inv"), labels = c("Proliferative","Invasive"))
+    
     print(ggplot(corr_sub1, aes(y = value, x = score))+
             geom_boxplot(aes(fill=score)) + facet_grid(.~EM)+
             theme_classic()+
             theme(text = element_text(size=16))+
             border()+
+            ylim(-1,1)+
+            stat_compare_means(method = "t.test")+
             rremove("legend")+
             ylab("R"))
     ggsave(paste0("Figures/Fig.1/box_",j,"_",i[1],"_",i[2],".png"))
@@ -201,7 +209,5 @@ for (i in ds) {
 #Figure 5: Metabolic scores
 #For calculating scores, use scripts under Codes/Metabolism
 #For generating plots use Codes/Metabolism/Volcano_plots.py
-
-
 
 
