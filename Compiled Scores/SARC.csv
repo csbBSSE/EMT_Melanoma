@@ -1,0 +1,207 @@
+,Mesenchymal,Epithelial,Phenotypes
+TCGA.3B.A9HI.01,4.002234238,0.847418875,undifferentiated pleomorphic sarcoma
+TCGA.3B.A9HL.01,3.994214954,0.903885112,dedifferentiated liposarcoma
+TCGA.3B.A9HO.01,3.927761637,0.948982305,dedifferentiated liposarcoma
+TCGA.3B.A9HP.01,3.973856566,0.912269697,leiomyosarcoma - gynecologic
+TCGA.3B.A9HQ.01,3.808862242,0.873244507,leiomyosarcoma - soft tissue
+TCGA.3B.A9HR.01,3.589679055,0.7781412,leiomyosarcoma - soft tissue
+TCGA.3B.A9HS.01,3.965286126,0.910511717,dedifferentiated liposarcoma
+TCGA.3B.A9HT.01,3.883294041,0.929134565,leiomyosarcoma - soft tissue
+TCGA.3B.A9HU.01,3.820236414,0.89609886,leiomyosarcoma - soft tissue
+TCGA.3B.A9HV.01,3.570982674,0.915851574,leiomyosarcoma - gynecologic
+TCGA.3B.A9HX.01,3.897274351,0.932592548,leiomyosarcoma - soft tissue
+TCGA.3B.A9HY.01,3.926722536,0.838895637,leiomyosarcoma - soft tissue
+TCGA.3B.A9HZ.01,3.943601115,1.056925554,leiomyosarcoma - soft tissue
+TCGA.3B.A9I0.01,3.769423423,0.788449302,leiomyosarcoma - soft tissue
+TCGA.3B.A9I1.01,3.76158574,0.963531048,leiomyosarcoma - gynecologic
+TCGA.3B.A9I3.01,3.799334765,1.63439021,leiomyosarcoma - soft tissue
+TCGA.3R.A8YX.01,3.743091677,0.9616306,dedifferentiated liposarcoma
+TCGA.DX.A1KU.01,4.155510584,0.871233873,dedifferentiated liposarcoma
+TCGA.DX.A1KW.01,3.892648768,0.905477136,dedifferentiated liposarcoma
+TCGA.DX.A1KX.01,3.903114549,0.974533282,undifferentiated pleomorphic sarcoma
+TCGA.DX.A1KY.01,3.678563491,0.709173954,dedifferentiated liposarcoma
+TCGA.DX.A1KZ.01,4.049750468,0.815733621,dedifferentiated liposarcoma
+TCGA.DX.A1L0.01,3.974773566,0.710380588,dedifferentiated liposarcoma
+TCGA.DX.A1L1.01,3.853303202,0.808422113,dedifferentiated liposarcoma
+TCGA.DX.A1L3.01,4.011090395,0.839946973,dedifferentiated liposarcoma
+TCGA.DX.A1L4.01,4.147283184,1.00784391,dedifferentiated liposarcoma
+TCGA.DX.A23R.01,3.890152255,0.732807395,dedifferentiated liposarcoma
+TCGA.DX.A23T.01,3.994988813,0.867378185,dedifferentiated liposarcoma
+TCGA.DX.A23V.01,4.023210819,0.893898703,dedifferentiated liposarcoma
+TCGA.DX.A23Y.01,3.975029007,0.80688719,dedifferentiated liposarcoma
+TCGA.DX.A240.01,3.895875121,0.940999699,dedifferentiated liposarcoma
+TCGA.DX.A2IZ.01,3.253898987,0.860655043,dedifferentiated liposarcoma
+TCGA.DX.A2J0.01,3.960798285,0.706292501,dedifferentiated liposarcoma
+TCGA.DX.A2J1.01,3.924762228,0.914620788,dedifferentiated liposarcoma
+TCGA.DX.A2J4.01,4.048044246,0.912107804,dedifferentiated liposarcoma
+TCGA.DX.A3LS.01,4.037220645,0.82958736,dedifferentiated liposarcoma
+TCGA.DX.A3LT.01,3.951460288,0.846163062,dedifferentiated liposarcoma
+TCGA.DX.A3LU.01,3.896563306,0.818621411,dedifferentiated liposarcoma
+TCGA.DX.A3LW.01,3.926680901,0.788822299,dedifferentiated liposarcoma
+TCGA.DX.A3LY.01,3.952584409,0.772424749,dedifferentiated liposarcoma
+TCGA.DX.A3M1.01,4.016495301,0.850049388,dedifferentiated liposarcoma
+TCGA.DX.A3M2.01,3.901362811,0.901897641,undifferentiated pleomorphic sarcoma
+TCGA.DX.A3U5.01,3.895108734,0.786206826,dedifferentiated liposarcoma
+TCGA.DX.A3U6.01,4.028697584,0.933544642,dedifferentiated liposarcoma
+TCGA.DX.A3U7.01,3.659955986,0.804260242,leiomyosarcoma - soft tissue
+TCGA.DX.A3U8.01,3.689754698,0.960735446,undifferentiated pleomorphic sarcoma
+TCGA.DX.A3U9.01,3.800462261,0.871646761,leiomyosarcoma - soft tissue
+TCGA.DX.A3UA.01,3.844124124,0.683514077,leiomyosarcoma - soft tissue
+TCGA.DX.A3UB.01,3.726545098,1.194783572,leiomyosarcoma - soft tissue
+TCGA.DX.A3UC.01,3.664640186,0.766055841,leiomyosarcoma - soft tissue
+TCGA.DX.A3UD.01,3.64868111,0.687726233,leiomyosarcoma - soft tissue
+TCGA.DX.A3UE.01,3.672896087,0.766664511,leiomyosarcoma - soft tissue
+TCGA.DX.A3UF.01,3.910985895,0.873464512,leiomyosarcoma - soft tissue
+TCGA.DX.A48J.01,3.930535343,0.853931408,leiomyosarcoma - soft tissue
+TCGA.DX.A48K.01,4.053668595,0.754576464,leiomyosarcoma - soft tissue
+TCGA.DX.A48L.01,3.640578421,0.791184396,leiomyosarcoma - soft tissue
+TCGA.DX.A48N.01,3.793976121,0.766738867,dedifferentiated liposarcoma
+TCGA.DX.A48O.01,3.722976951,0.722029341,leiomyosarcoma - soft tissue
+TCGA.DX.A48P.01,3.898831311,0.819331574,leiomyosarcoma - soft tissue
+TCGA.DX.A48R.01,3.483008048,0.802543559,leiomyosarcoma - soft tissue
+TCGA.DX.A48U.01,3.766308897,0.738764726,leiomyosarcoma - soft tissue
+TCGA.DX.A6B7.01,3.740457499,0.747234191,leiomyosarcoma - soft tissue
+TCGA.DX.A6B9.01,3.757987895,0.876905658,leiomyosarcoma - soft tissue
+TCGA.DX.A6BA.01,3.802766423,0.88287242,leiomyosarcoma - soft tissue
+TCGA.DX.A6BB.01,3.759202219,0.879651424,leiomyosarcoma - soft tissue
+TCGA.DX.A6BE.01,4.072975268,0.86256662,dedifferentiated liposarcoma
+TCGA.DX.A6BF.01,3.828114836,0.892840322,dedifferentiated liposarcoma
+TCGA.DX.A6BG.01,4.074448962,0.82360497,dedifferentiated liposarcoma
+TCGA.DX.A6BH.01,4.058615138,0.876721573,dedifferentiated liposarcoma
+TCGA.DX.A6YQ.01,3.758373059,0.974247642,myxofibrosarcoma
+TCGA.DX.A6YR.01,3.95075458,0.755792239,myxofibrosarcoma
+TCGA.DX.A6YU.01,4.007478253,0.883240248,myxofibrosarcoma
+TCGA.DX.A6YX.01,3.68465352,0.884765725,myxofibrosarcoma
+TCGA.DX.A6Z0.01,3.958640716,0.828922642,myxofibrosarcoma
+TCGA.DX.A6Z2.01,4.043635469,0.812302108,leiomyosarcoma - soft tissue
+TCGA.DX.A7EF.01,3.766865941,0.859072081,undifferentiated pleomorphic sarcoma
+TCGA.DX.A7EI.01,3.704058928,0.87536825,dedifferentiated liposarcoma
+TCGA.DX.A7EL.01,3.88234214,0.891829882,leiomyosarcoma - soft tissue
+TCGA.DX.A7EM.01,3.847351194,0.914570579,leiomyosarcoma - soft tissue
+TCGA.DX.A7EN.01,3.504922959,0.880701862,leiomyosarcoma - soft tissue
+TCGA.DX.A7EO.01,3.155510584,1.477696322,synovial sarcoma
+TCGA.DX.A7EQ.01,3.216780274,1.057423602,synovial sarcoma
+TCGA.DX.A7ER.01,3.276085348,0.785475856,synovial sarcoma
+TCGA.DX.A7ES.01,4.048130185,0.934713049,dedifferentiated liposarcoma
+TCGA.DX.A7ET.01,3.790299298,0.906333751,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BH.01,3.695478122,0.827514349,myxofibrosarcoma
+TCGA.DX.A8BJ.01,3.889261535,0.944846286,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BK.01,3.840245729,0.875048385,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BL.01,3.826105888,0.864547283,myxofibrosarcoma
+TCGA.DX.A8BM.01,3.834641176,0.865437798,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BN.01,3.709125694,0.76835759,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BO.01,3.820966191,1.054086455,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BR.01,3.938739309,0.929520535,myxofibrosarcoma
+TCGA.DX.A8BT.01,3.899126553,0.770273268,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BU.01,3.928662278,0.876013021,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BV.01,4.007170764,0.801978707,myxofibrosarcoma
+TCGA.DX.A8BX.01,3.885139691,0.815453462,undifferentiated pleomorphic sarcoma
+TCGA.DX.A8BZ.01,3.765698763,0.892898667,undifferentiated pleomorphic sarcoma
+TCGA.DX.AB2E.01,3.656631724,0.776285322,myxofibrosarcoma
+TCGA.DX.AB2F.01,3.977967014,0.861184835,dedifferentiated liposarcoma
+TCGA.DX.AB2G.01,3.899542362,0.891079139,dedifferentiated liposarcoma
+TCGA.DX.AB2H.01,3.620426833,0.916513565,dedifferentiated liposarcoma
+TCGA.DX.AB2O.01,3.817225875,0.786257488,undifferentiated pleomorphic sarcoma
+TCGA.DX.AB2P.01,4.015771349,0.758904659,undifferentiated pleomorphic sarcoma
+TCGA.DX.AB2Q.01,3.817541484,0.859667869,undifferentiated pleomorphic sarcoma
+TCGA.DX.AB2S.01,3.967671709,0.910411895,dedifferentiated liposarcoma
+TCGA.DX.AB2T.01,4.017743789,0.841204761,myxofibrosarcoma
+TCGA.DX.AB2V.01,3.755337629,0.886246275,myxofibrosarcoma
+TCGA.DX.AB2W.01,3.826240549,1.017333566,undifferentiated pleomorphic sarcoma
+TCGA.DX.AB2X.01,3.613090909,0.87841569,myxofibrosarcoma
+TCGA.DX.AB2Z.01,3.89335734,0.832753019,undifferentiated pleomorphic sarcoma
+TCGA.DX.AB32.01,3.935521098,0.899644601,undifferentiated pleomorphic sarcoma
+TCGA.DX.AB35.01,3.923482379,0.846017668,dedifferentiated liposarcoma
+TCGA.DX.AB36.01,3.891608078,0.957576448,dedifferentiated liposarcoma
+TCGA.DX.AB37.01,3.907708502,0.885167096,dedifferentiated liposarcoma
+TCGA.DX.AB3A.01,3.861342591,1.080513345,dedifferentiated liposarcoma
+TCGA.DX.AB3B.01,3.714147838,0.980287427,synovial sarcoma
+TCGA.DX.AB3C.01,3.167761002,1.067026087,synovial sarcoma
+TCGA.FX.A2QS.01,3.872198998,0.875351815,dedifferentiated liposarcoma
+TCGA.FX.A3NJ.01,3.934272364,0.855917162,leiomyosarcoma - soft tissue
+TCGA.FX.A3NK.01,4.055330675,1.176509873,dedifferentiated liposarcoma
+TCGA.FX.A3RE.01,4.042736885,0.863270745,leiomyosarcoma - gynecologic
+TCGA.FX.A3TO.01,3.807315275,0.913635873,undifferentiated pleomorphic sarcoma
+TCGA.FX.A48G.01,3.737083526,0.996448964,leiomyosarcoma - gynecologic
+TCGA.FX.A76Y.01,3.849436179,0.905534062,leiomyosarcoma - gynecologic
+TCGA.FX.A8OO.01,3.398596673,0.815240128,synovial sarcoma
+TCGA.HB.A2OT.01,3.913652935,0.868244279,undifferentiated pleomorphic sarcoma
+TCGA.HB.A3L4.01,3.651179415,0.800906947,leiomyosarcoma - gynecologic
+TCGA.HB.A3YV.01,3.708461436,0.859370362,dedifferentiated liposarcoma
+TCGA.HB.A43Z.01,3.776086584,0.821065137,leiomyosarcoma - gynecologic
+TCGA.HB.A5W3.01,3.892022757,0.927169361,leiomyosarcoma - soft tissue
+TCGA.HS.A5N7.01,3.848216974,0.942992703,leiomyosarcoma - soft tissue
+TCGA.HS.A5N8.01,3.837184917,1.08553562,leiomyosarcoma - gynecologic
+TCGA.IE.A3OV.01,3.904726612,0.801938883,leiomyosarcoma - soft tissue
+TCGA.IE.A4EH.01,3.673848327,0.8235116,leiomyosarcoma - gynecologic
+TCGA.IE.A4EI.01,3.736260936,0.816391951,leiomyosarcoma - soft tissue
+TCGA.IE.A4EJ.01,3.952830368,0.779364329,undifferentiated pleomorphic sarcoma
+TCGA.IE.A4EK.01,3.734832085,0.700606543,leiomyosarcoma - soft tissue
+TCGA.IE.A6BZ.01,3.849276466,0.799332984,myxofibrosarcoma
+TCGA.IF.A4AJ.01,3.737889111,0.785340702,leiomyosarcoma - soft tissue
+TCGA.IS.A3K6.01,3.645982979,0.947987031,leiomyosarcoma - gynecologic
+TCGA.IS.A3K7.01,3.848341604,0.884675263,leiomyosarcoma - gynecologic
+TCGA.IW.A3M4.01,3.929885573,0.838838931,leiomyosarcoma - gynecologic
+TCGA.IW.A3M6.01,3.974888575,0.841695556,leiomyosarcoma - gynecologic
+TCGA.JV.A5VE.01,3.871990168,0.929153644,leiomyosarcoma - gynecologic
+TCGA.JV.A75J.01,3.455109171,0.882087647,leiomyosarcoma - gynecologic
+TCGA.K1.A3PN.01,3.695981914,0.965287715,leiomyosarcoma - gynecologic
+TCGA.K1.A3PO.01,3.851118964,1.046018077,leiomyosarcoma - soft tissue
+TCGA.K1.A42W.01,3.753974386,0.782929435,leiomyosarcoma - soft tissue
+TCGA.K1.A42X.01,3.519991523,0.660776761,leiomyosarcoma - gynecologic
+TCGA.K1.A6RU.01,3.943908019,0.890945452,undifferentiated pleomorphic sarcoma
+TCGA.K1.A6RV.01,3.835280406,0.935448687,leiomyosarcoma - soft tissue
+TCGA.KD.A5QS.01,3.788474718,0.729786585,leiomyosarcoma - gynecologic
+TCGA.KD.A5QT.01,3.665130211,0.79242221,leiomyosarcoma - gynecologic
+TCGA.KD.A5QU.01,3.836208197,0.82385169,leiomyosarcoma - gynecologic
+TCGA.KF.A41W.01,3.905284626,0.882822278,leiomyosarcoma - gynecologic
+TCGA.LI.A9QH.01,3.853062656,0.91451465,undifferentiated pleomorphic sarcoma
+TCGA.MB.A5Y8.01,3.829979254,0.875309625,undifferentiated pleomorphic sarcoma
+TCGA.MB.A5Y9.01,3.849949131,0.926717788,undifferentiated pleomorphic sarcoma
+TCGA.MB.A5YA.01,3.749218142,0.777824061,undifferentiated pleomorphic sarcoma
+TCGA.MB.A8JK.01,3.921601412,0.896373159,undifferentiated pleomorphic sarcoma
+TCGA.MJ.A68H.01,3.850249035,0.879425939,leiomyosarcoma - gynecologic
+TCGA.MJ.A68J.01,4.062077406,0.906683709,myxofibrosarcoma
+TCGA.MJ.A850.01,3.431880619,1.247016639,synovial sarcoma
+TCGA.MO.A47R.01,3.650703917,0.716105628,leiomyosarcoma - gynecologic
+TCGA.N1.A6IA.01,3.954987747,0.958590271,leiomyosarcoma - gynecologic
+TCGA.PC.A5DK.01,3.941523882,0.839388655,leiomyosarcoma - soft tissue
+TCGA.PC.A5DL.01,3.869957066,0.828289266,leiomyosarcoma - soft tissue
+TCGA.PC.A5DN.01,4.035010333,0.84575634,dedifferentiated liposarcoma
+TCGA.PC.A5DO.01,3.766776111,0.763020794,leiomyosarcoma - soft tissue
+TCGA.QC.A6FX.01,3.785292316,0.874674641,undifferentiated pleomorphic sarcoma
+TCGA.QQ.A5V9.01,3.907162946,0.853271893,undifferentiated pleomorphic sarcoma
+TCGA.QQ.A5VB.01,3.898469952,0.935041391,leiomyosarcoma - soft tissue
+TCGA.QQ.A5VC.01,3.675997426,0.836682367,leiomyosarcoma - soft tissue
+TCGA.QQ.A8VH.01,3.607830319,0.795126811,MPNST
+TCGA.RN.A68Q.01,3.699783423,0.965884697,MPNST
+TCGA.SG.A6Z4.01,3.989162199,0.762753391,undifferentiated pleomorphic sarcoma
+TCGA.SG.A6Z7.01,3.783532407,0.856469792,dedifferentiated liposarcoma
+TCGA.SG.A849.01,3.836923714,0.877234446,undifferentiated pleomorphic sarcoma
+TCGA.SI.A71O.01,3.879212525,0.860428056,undifferentiated pleomorphic sarcoma
+TCGA.SI.A71P.01,3.760141608,1.000417611,MPNST
+TCGA.SI.A71Q.01,3.778369073,0.860444662,MPNST
+TCGA.SI.AA8B.01,3.87865602,0.890898023,undifferentiated pleomorphic sarcoma
+TCGA.SI.AA8C.01,3.962535537,0.947921179,MPNST
+TCGA.VT.A80G.01,4.025045364,0.863235026,undifferentiated pleomorphic sarcoma
+TCGA.VT.A80J.01,3.905599316,0.935608718,undifferentiated pleomorphic sarcoma
+TCGA.VT.AB3D.01,3.893226986,0.876857926,undifferentiated pleomorphic sarcoma
+TCGA.WK.A8XO.01,3.96612886,0.885787339,dedifferentiated liposarcoma
+TCGA.WK.A8XQ.01,3.543564492,0.808627737,undifferentiated pleomorphic sarcoma
+TCGA.WK.A8XS.01,3.795955856,0.949942508,leiomyosarcoma - soft tissue
+TCGA.WK.A8XT.01,3.442896282,0.82488733,synovial sarcoma
+TCGA.WK.A8XX.01,3.840482013,0.849775003,leiomyosarcoma - soft tissue
+TCGA.WK.A8XY.01,3.577318972,0.801328075,leiomyosarcoma - soft tissue
+TCGA.WK.A8Y0.01,3.904216401,0.851397231,undifferentiated pleomorphic sarcoma
+TCGA.WP.A9GB.01,3.492278164,0.925920712,leiomyosarcoma - gynecologic
+TCGA.X2.A95T.01,3.823773209,0.826734013,leiomyosarcoma - gynecologic
+TCGA.X6.A7W8.01,3.744371642,0.914033727,myxofibrosarcoma
+TCGA.X6.A7WC.01,3.961543459,0.817248302,undifferentiated pleomorphic sarcoma
+TCGA.X6.A7WD.01,3.862321076,0.83518513,leiomyosarcoma - soft tissue
+TCGA.X6.A8C2.01,3.930245454,0.827091444,undifferentiated pleomorphic sarcoma
+TCGA.X6.A8C3.01,3.800134247,0.957135324,myxofibrosarcoma
+TCGA.X6.A8C5.01,3.965436629,0.902619848,leiomyosarcoma - soft tissue
+TCGA.X6.A8C7.01,3.478119803,0.969317477,synovial sarcoma
+TCGA.X9.A971.01,3.554528632,0.866122636,leiomyosarcoma - soft tissue
+TCGA.Z4.AAPF.01,3.824723376,0.909356096,synovial sarcoma
+TCGA.Z4.AAPG.01,3.640159049,0.988077186,undifferentiated pleomorphic sarcoma
